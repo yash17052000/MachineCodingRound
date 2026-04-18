@@ -1,0 +1,29 @@
+img{
+  width:100%;
+  height: 400px;
+  
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+position: relative;
+}
+.rightbtn,.leftbtn{
+ position: absolute;
+ top: 50%;
+ background-color: red;
+ color: white;
+ margin: 10px;
+ padding: 10px;
+ cursor: pointer;
+}
+
+.leftbtn{
+  left: 10px;
+}
+
+.rightbtn{
+  right: 10px;
+}
