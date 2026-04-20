@@ -1,0 +1,16 @@
+.container{
+  display: flex;
+  justify-content: space-between;
+  height:"40px";
+  width:"100%";
+  border:2px solid gray;
+  margin: 10px;
+}
+.maincontainer{
+  display: flex;
+  flex-direction: column;
+  height:"80px";
+  width:"100%";
+  border:2px solid gray;
+   margin: 10px;
+}
