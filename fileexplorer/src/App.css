@@ -1,0 +1,13 @@
+.container{
+  border-left: 2px black solid;
+  padding-left: 0.5em;
+  margin-left: 10px;
+}
+span{
+  margin-left: 10px;
+  cursor: pointer;
+}
+.heading{
+  display: flex;
+  gap:10px
+}
